@@ -1,1 +1,1 @@
-# copilot-lab
+# ECS Lab
